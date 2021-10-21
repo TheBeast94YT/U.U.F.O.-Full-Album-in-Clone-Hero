@@ -1,0 +1,36 @@
+Make sure you put the folder in the Clone Hero\songs folder. Then open Clone Hero, go to Settings, then General, and then Scan Songs. Also, if you sort songs by Album or 
+Playlist by holding Yellow, you can find all the songs in the U.U.F.O. area.
+
+I did index the songs in a specific order in the song.in files, but if that doesn't work for some reason, here's the list to play them correctly.
+
+1. Mystery Circles Ultra U.U.F.O
+2. (The) Red * Room
+3. Labyrinth in Kowloon: Walled World
+4. Electromagnetic Stealth Girl Born In Philadelphia
+5. Жужжалка76
+6. KillerToy
+7. POLYBIUS GB SPEEDRUN (Glitchless 100% WR in 0:03:57)
+8. Tentaclar Aliens’ Epic Extraterretterrestrial Jungle Dance Party Inside Of A Super-Ultra-Mega-Gigantic U.F.O. (It Maybe U.U.F.O.) Silently Flying Over Illinois St.
+9. FINAL BLENDERMAN APPEARED.
+10. WYSI (When You See It) [BPM727]
+11. 2021年の魔法使いたち [We Magicians Still Alive in 2021]
+12. Bonus Track 1: ΩΩPARTS
+13. Bonus Track 2: Hello (BPM) 2021
+14. AREA 52
+15. Kisaragi
+16. Bermuda Δ Triangle (feat. The8BitDrummer)
+17. CICADA3302
+18. SLIME INCIDENT
+19. The Cat Evolved Into The Mircowave-proof Cat!
+20. ゾンビーサーカス (ZOMBIE CIRCUS) (feat. 初音ミク Hatsune Miku)
+21. t / a/n / a/s i/n / n
+22. Purge My Existence Out Of This World
+23. GHOUL
+24. Myths You Forgot (feat. Toby Fox)
+25. Bonus Track 3: THE MUZZLE FACING (Long muzzled version) [from WACCA]
+26. Bonus Track 4: #1f1e33 (#00102g version)
+27. Bonus Track 5: 大地の閾を探して [Looking for Edge of Ground] feat. 初音ミク (Hatsune Miku)
+
+Also, if you sorted by Artist and couldn't find FINAL BLENDERMAN APPEARED., Bermuda Δ Triangle (feat. The8BitDrummer),
+Purge My Existence Out Of This World, ゾンビーサーカス (ZOMBIE CIRCUS) (feat. 初音ミク Hatsune Miku), Myths You Forgot (feat. Toby Fox) or 
+Bonus Track 5: 大地の閾を探して [Looking for Edge of Ground] feat. 初音ミク (Hatsune Miku), it probably went somewhere else in that pile of artists. So just sort by Album, ok?
