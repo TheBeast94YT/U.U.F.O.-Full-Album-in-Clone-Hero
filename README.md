@@ -10,7 +10,7 @@ In addition, there are many guest musicians, even featuring streamer BTMC (ex-Be
 Bonus tracks include "THE MUZZLE FACING (Long muzzled version)" from WACCA and five tracks from Arcaea, including "#1f1e33 (#00102g version)".
 The U.U.F.O. invades the earth with ultra monstrous sound waves!
 
--a quote i stole from last.fm lol
+-a quote i stole from www.last.fm lol
 
 This was a project I started a while ago, maybe 3-4 months. Camellia made a 27 track album called U.U.F.O., and I wanted a real challenge with charting, so here we are.
 
