@@ -14,4 +14,6 @@ The U.U.F.O. invades the earth with ultra monstrous sound waves!
 
 This was a project I started a while ago, maybe 3-4 months. Camellia made a 27 track album called U.U.F.O., and I wanted a real challenge with charting, so here we are.
 
+If there are any issues with the charting or compatiablity issues, go to my Discord server's #help-line channel. (https://discord.com/channels/820711271091404800/904531484793249832)
+
 There is also a GD link to download if this page won't, so: https://drive.google.com/drive/folders/1x0AAA5R-0l3DqXyfFiHDwaSvkXqS67Bz?usp=sharing
